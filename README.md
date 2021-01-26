@@ -1,2 +1,2 @@
 # test
-tetst
+This is my first repo
